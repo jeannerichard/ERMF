@@ -1,0 +1,8 @@
+***/**/*.DS_Store
+***/**/*.RData
+***/**/*.Rhistory
+***/**/*.Rprofile
+***/**/*.Rproj
+.Rproj.*/**/***
+***/**/*/old/
+***/**/*/trash/
